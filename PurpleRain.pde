@@ -1,5 +1,5 @@
 // Purple  Rain
-// (#c3b8c6)
+// (138, 43, 226)
 // (230, 230, 250) // background
 
 Drop [] drops = new Drop[100];

@@ -18,7 +18,7 @@ class Drop {
  }
  
    void show() { 
-   float thick = map(z, 0, 20, 3 , 2);
+   float thick = map(z, 0, 10, 3 , 2);
    strokeWeight(thick);
    stroke(138, 43, 226);
    line(x,y,x,y+len);
@@ -26,3 +26,4 @@ class Drop {
   
 
 }
+   
